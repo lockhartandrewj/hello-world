@@ -21,7 +21,7 @@
  - Croatia
  - Venetia
 
-### Much easier to edit in FastHub I think.
+### Much easier to edit Markdown in FastHub I think.
 
  
 
