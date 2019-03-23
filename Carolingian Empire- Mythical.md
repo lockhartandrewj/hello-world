@@ -2,7 +2,7 @@
 
 ## Capital: Aachen or maybe Cologne (Koln)
 
-## ProvincesProvinces:
+## Provinces:
 
  - Austrasia
  - Neustria
