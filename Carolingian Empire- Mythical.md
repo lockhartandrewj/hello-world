@@ -1,4 +1,4 @@
-# CarolingianCarolingian Empire (mythical, alternate universe)
+# Caolingian Empire (mythical, alternate universe)
 
 ## Capital: Aachen or maybe Cologne (Koln)
 
