@@ -1,4 +1,4 @@
-# Caolingian Empire (mythical, alternate universe)
+# Carolingian Empire (mythical, alternate universe)
 
 ## Capital: Aachen or maybe Cologne (Koln)
 
@@ -22,7 +22,3 @@
  - Venetia
 
 ### Much easier to edit Markdown in FastHub I think.
-
- 
-
-
