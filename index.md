@@ -1,3 +1,7 @@
+---
+title: Hello world
+---
+
 ### This is my new index for the **hello-world** pages site
 Let's see if this works:
 
